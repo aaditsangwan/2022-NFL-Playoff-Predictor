@@ -1,1 +1,1 @@
-Predicts if a NFL team made the playoffs in 2022 based on offensive stats from week 3 to week 9 using a Random Forest Classifier with 83% accuracy.
+🏈 Built a machine learning model to predict NFL team playoff qualification using weekly offensive stats (Weeks 3–9), achieving 83% accuracy and revealing key performance drivers via feature importance analysis.
